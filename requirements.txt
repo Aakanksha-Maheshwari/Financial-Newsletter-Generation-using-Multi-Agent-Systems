@@ -1,0 +1,13 @@
+streamlit
+openai==1.55.3
+requests
+pysqlite3-binary
+protobuf==3.20
+chromadb
+crewai
+crewai[tools]
+bespokelabs
+httpx==0.27.2
+matplotlib
+bs4
+pandas
