@@ -3,7 +3,6 @@
 This project is a **Streamlit-based application** that generates professional financial newsletters using a multi-agent system (MAS) architecture. The project integrates **ChromaDB**, **OpenAI GPT models**, and **Alpha Vantage APIs** to fetch, process, and analyze financial data. The generated newsletters provide valuable insights into market trends, news sentiment, and risk factors, making it a comprehensive tool for financial professionals.
 
 ## Table of Contents
-
 1. [Overview](#overview)  
 2. [Features](#features)  
 3. [Architecture](#architecture)  
